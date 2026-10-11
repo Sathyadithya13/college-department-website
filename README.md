@@ -1,4 +1,3 @@
-
 # College Department Website
 
 ## Project Description
@@ -9,7 +8,7 @@ A simple website for the Computer Science and Engineering department, built usin
 - Display faculty details.
 - Display department contact information.
 - Practice Git and GitHub collaboration.
-- Create feature branches and merge changes.
+- Create and merge feature branches.
 - Create and resolve a merge conflict.
 
 ## Technologies Used
@@ -23,13 +22,5 @@ A simple website for the Computer Science and Engineering department, built usin
 - index.html - Home page
 - faculty.html - Faculty page
 - contact.html - Contact page
-- style.css - Website design
+- style.css - Website styling
 - README.md - Project documentation
-
-## Git Branches
-- main
-- feature/home
-- feature/faculty
-- feature/contact
-- feature/home-update
-- feature/home-design
